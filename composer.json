@@ -1,0 +1,21 @@
+{
+    "name": "gestionprojet/babacar",
+    "autoload": {
+        "psr-4": {
+            "Model\\": "Model/",
+            "Public\\" : "Public/",
+            "Router\\" : "Router/",
+            "Controllers\\" : "Controllers/",
+            "Gestionprojet\\Babacar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "babacar",
+            "email": "babacar77979204@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
